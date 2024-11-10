@@ -112,7 +112,7 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 <hr>
 
 <h2>Página de Mapa de Faturamento Por Família do Produto Selecionado</h2>
-Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento, podendo filtrar por ano, tamanho do produto (quantidade de litro da emabalagem), sabor do produto, vendedores específicos e a família (marca) do produto.
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento, podendo filtrar por ano, tamanho do produto (quantidade de litro da emabalagem), sabor do produto, vendedores específicos da venda e a família (marca) do produto.
 
 <br>
 <br>
@@ -120,6 +120,27 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 ![02](https://github.com/user-attachments/assets/12b73f67-d8b2-4c65-97ec-1b25c2d3074a)
 
 <hr>
+
+<h2>Página de Faturamento Família e Produto Selecionado</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento de produtos e marca do produto, podendo filtrar por ano, vendedor que realizou a venda, sabor do produto, e tamanho da embalagem.
+
+<br>
+<br>
+
+![03](https://github.com/user-attachments/assets/7d0243e1-de51-4f72-a771-784e065f86a7)
+
+<hr>
+
+<h2>Página de Top 5 Clientes por Top 10 Produtos</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento das marcas e dos produtos, ela traz um rank dos Top 5 Clientes que mais compraram (em termos financeiros e não de quantidade) e dos Top 10 marcas e produtos que mais lucraram. Esses dados podem ser filtrados por ano, Vendedores que realizaram a venda, tamanho da embalagem do produto e sabor do produto.
+
+<br>
+<br>
+
+![04](https://github.com/user-attachments/assets/8ab54435-8f2c-4a8a-9c27-8061238ae68e)
+
+<hr>
+
 
 
 
