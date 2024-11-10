@@ -101,7 +101,7 @@ Foram criadas medidas utilizando a linguagem <b>DAX</b> (Data Analysis Expressio
 
 <hr>
  
-<h2> Página de Faturamento e Imposto </h2>
+<h2>Faturamento e Imposto </h2>
 Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de impostos e faturamento, podendo ser filtrado pelos anos, produtos e categorias (marca). Todos os dados financeiros principais estão nessa página.
 
 <br>
@@ -115,7 +115,7 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 <br>
 
 
-<h2>Página de Mapa de Faturamento Por Família do Produto Selecionado</h2>
+<h2>Mapa de Faturamento Por Família do Produto Selecionado</h2>
 Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento, podendo filtrar por ano, tamanho do produto (quantidade de litro da emabalagem), sabor do produto, vendedores específicos da venda e a família (marca) do produto.
 
 <br>
@@ -129,7 +129,7 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 <br>
 
 
-<h2>Página de Faturamento Família e Produto Selecionado</h2>
+<h2>Faturamento Família e Produto Selecionado</h2>
 Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento de produtos e marca do produto, podendo filtrar por ano, vendedor que realizou a venda, sabor do produto, e tamanho da embalagem.
 
 <br>
@@ -143,7 +143,7 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 <br>
 
 
-<h2>Página de Top 5 Clientes por Top 10 Produtos</h2>
+<h2>Top 5 Clientes por Top 10 Produtos</h2>
 Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento das marcas e dos produtos, ela traz um rank dos Top 5 Clientes que mais compraram (em termos financeiros e não de quantidade) e dos Top 10 marcas e produtos que mais lucraram. Esses dados podem ser filtrados por ano, Vendedores que realizaram a venda, tamanho da embalagem do produto e sabor do produto.
 
 <br>
@@ -152,6 +152,42 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 ![04](https://github.com/user-attachments/assets/8ab54435-8f2c-4a8a-9c27-8061238ae68e)
 
 <hr>
+
+<br>
+<br>
+
+
+<h2>Mapa de Clientes</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de clientes baseados em sua geolocalização, essa página tem um gráfico de mapa onde mostra exatamente a localidade de cada cliente, com baso no cep e endereço fornecido pelos mesmos. Os dados podem ser filtrados por ano, tamanho da embalagem do produto, vendedores que realizaram a venda para o cliente, e sabor do produto vendido.
+
+<br>
+<br>
+
+![05](https://github.com/user-attachments/assets/1fe7f8ce-cf9b-48ef-ae55-2334071c428b)
+
+<hr>
+
+<br>
+<br>
+
+
+<h2>Mapa de Cleintes - Área</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de clientes baseados em sua geolocalização, porém diferente da página acima o gráfico de mapa dessa página trás os clientes separados por estado. Os dados podem ser filtrados por ano, tamanho da embalagem do produto, vendedores que realizaram a venda para o cliente, e sabor do produto vendido.
+
+<br>
+<br>
+
+![06](https://github.com/user-attachments/assets/a26618e8-67a0-466c-a80b-8a0779946516)
+
+<hr>
+
+<br>
+<br>
+
+
+
+<h2>Hierarquia Geográfica</h2>
+
 
 
 
