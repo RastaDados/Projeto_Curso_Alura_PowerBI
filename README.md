@@ -187,6 +187,54 @@ Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises<
 
 
 <h2>Hierarquia Geográfica</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados do faturamento das vendas com base em sua geolocalização. Os dados contidos nos visuais desta página podem ser filtrados por Estado e cidade dos clientes, além dos anos, tamanho da embalagem, sabor do produto e vendedores que realizaram as vendas.
+
+<br>
+<br>
+
+![07](https://github.com/user-attachments/assets/d2c046f7-abe6-467a-8946-fb45b8a4b39e)
+
+<hr>
+
+<br>
+<br>
+
+
+<h2>Hierarquia da Visão</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados do faturamento das vendas com base em sua geolocalização. Os dados contidos nos visuais desta página são filtrados pelos bairros dos clientes, e podem ser filtrados também pelos anos, tamanho da embalagem, sabor do produto e vendedores que realizaram as vendas.
+
+<br>
+<br>
+
+![08](https://github.com/user-attachments/assets/f58f7941-c639-4735-a500-8b22d2620264)
+
+<hr>
+
+<br>
+<br>
+
+
+<h2>Hierarquia de Tempo</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados do faturamento filtrados pelo tempo, que estão disponíveis para realizar o Drill Down em anos, meses e dias. Os dados contidos nos visuais podem poder ser filtrados por tamanho da embalagem, sabor do produto e vendedores que realizaram as vendas.
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/8b7fb884-9085-487c-b7a3-c474e3082228)
+
+<hr>
+
+<br>
+<br>
+
+
+<h2>Tabelão por Geografia</h2>
+Essa página foi criada com o intuito de retirar <b>insights</b> e <b>análises</b> dos dados de faturamento filtrados por Cidade, Bairro e Nome do Vendedor. Os dados contidos nos visuais podem poder ser filtrados por tamanho da embalagem e sabor do produto.
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/fa804247-85ad-4da5-95db-7e0ead99834b)
 
 
 
