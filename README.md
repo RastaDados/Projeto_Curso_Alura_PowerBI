@@ -1,4 +1,11 @@
-# Empresa de Bebidas - Alura PowerBI
+# Empresa de Bebidas 
+
+<br>
+
+Este projeto foi desenvolvido para o desafio do curso de Power BI ministrado pela Alura.
+
+<br>
+<br>
 
 <h3>Link do Projeto</h3>
 <a href="https://app.powerbi.com/groups/me/reports/c98c2d6a-081d-451a-9b7d-876a0bb8c2f4/93d01abe0b974a8685d0?experience=power-bi"> Veja o Dashboard aqui </a>
